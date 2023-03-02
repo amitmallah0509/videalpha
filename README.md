@@ -48,7 +48,7 @@ To Run project on device the following command:
 flutter run
 ```
 
-## Boilerplate Features:
+## Vide Alpha Features:
 
 - Splash
 - Login
