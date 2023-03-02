@@ -2,7 +2,7 @@
 
 A vide alpha project created in flutter using MVVM and Provider. it supports both mobile platform Android & iOS, clone the appropriate branches mentioned below:
 
-https://github.com/amitmallah0509/videalpha/tree/master
+https://github.com/amitmallah0509/videalpha/tree/main
 
 ## Getting Started
 
